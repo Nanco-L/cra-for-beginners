@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cra-for-beginners/static/js/main.2a8bc4ef.js",
+    "main.js": "/cra-for-beginners/static/js/main.b727c12a.js",
     "index.html": "/cra-for-beginners/index.html",
-    "main.2a8bc4ef.js.map": "/cra-for-beginners/static/js/main.2a8bc4ef.js.map"
+    "main.b727c12a.js.map": "/cra-for-beginners/static/js/main.b727c12a.js.map"
   },
   "entrypoints": [
-    "static/js/main.2a8bc4ef.js"
+    "static/js/main.b727c12a.js"
   ]
 }
